@@ -1,0 +1,52 @@
+[nistha.bhavsar@vnc21 new]$ python3 uvm_skeleton.py
+------------------------------------------------------------------------
+name of the project = axi
+------------------------------------------------------------------------
+enter 1 --->  for testbench file
+enter 2 --->  for test class 
+enter 3 --->  for env class
+enter 4 --->  for agent class
+enter 5 --->  for driver class
+enter 6 --->  for monitor class
+enter 7 --->  for sequencer class
+enter 8 --->  for interface class
+enter 9 --->  for sequence class
+enter 10 --->  for sequence item class
+enter 11 --->  for scoreboard class
+enter 12 --->  for coverage class
+enter all --->  for all class
+enter exit  ---> to exit the code
+------------------------------------------------------------------------
+select input to create class
+all
+------------------------------------------------------------------------
+---> testbench file created
+---> test file created
+---> env file created
+---> agent file created
+---> driver file created
+---> monitor file created
+---> sequencer file created
+---> interface file created
+---> sequence file created
+---> seq item file created
+---> scoreboard file created
+---> coverage file created
+enter 1 --->  for testbench file
+enter 2 --->  for test class 
+enter 3 --->  for env class
+enter 4 --->  for agent class
+enter 5 --->  for driver class
+enter 6 --->  for monitor class
+enter 7 --->  for sequencer class
+enter 8 --->  for interface class
+enter 9 --->  for sequence class
+enter 10 --->  for sequence item class
+enter 11 --->  for scoreboard class
+enter 12 --->  for coverage class
+enter all --->  for all class
+enter exit  ---> to exit the code
+------------------------------------------------------------------------
+select input to create class
+exit
+------------------------------------------------------------------------
